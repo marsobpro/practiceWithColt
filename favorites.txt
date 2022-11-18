@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. Apple
 2. Banana
 3. Pineapple
+=======
+1. Titanic
+2. Harry Potter
+3. Lord of the Rings
+>>>>>>> movies
